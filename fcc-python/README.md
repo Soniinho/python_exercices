@@ -8,8 +8,8 @@ Projetos desenvolvidos durante a certificação **Python** do FreeCodeCamp.
 
 - Total de projetos: **5**
 - Status:
-  - 3 projetos concluídos
-  - 2 projetos em desenvolvimento
+  - 4 projetos concluídos
+  - 1 projetos em desenvolvimento
 ---
 
 ## Certificação: 
