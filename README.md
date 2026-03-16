@@ -1,4 +1,4 @@
-# Exercícios em Python – Faculdade
+# Exercícios em Python – Faculdade + FreeCodeCamp 
 
 Repositório com exercícios desenvolvidos em Python durante a graduação,
 organizados por disciplina.
