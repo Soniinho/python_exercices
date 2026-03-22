@@ -12,4 +12,4 @@ Projetos desenvolvidos durante a certificação **Python** do FreeCodeCamp.
 ---
 
 ## Certificação: 
-- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+- https://www.freecodecamp.org/learn/python-v9/
