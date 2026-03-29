@@ -11,5 +11,5 @@ Projetos desenvolvidos durante a certificação **Python** do FreeCodeCamp.
 
 ---
 
-## Certificação: 
-- https://www.freecodecamp.org/learn/python-v9/
+## Certificado: 
+- https://www.freecodecamp.org/certification/soniinho/python-v9
